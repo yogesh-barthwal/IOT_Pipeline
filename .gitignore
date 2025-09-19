@@ -1,0 +1,11 @@
+venv/ 
+iot_env/ 
+__pycache__/ 
+*.pkl 
+*.csv 
+*.parquet 
+*.log 
+data/ 
+models/ 
+*.doc 
+*.docx 
